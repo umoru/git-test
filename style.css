@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+    background-image: url("dart1.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1{
+    color: blueviolet;
+}
+
+
+p{
+    color: white;
+    text-align: justify;
+    font-size: 1.2em;
+}
